@@ -8,3 +8,5 @@ DOMAIN,nullbr.eu.org
 #OPENLIST挂载阿里
 DOMAIN-SUFFIX,oplist.org
 #frp和Lucky内网穿透
+DOMAIN-SUFFIX,zoecc.top
+DOMAIN-KEYWORD,zoe
