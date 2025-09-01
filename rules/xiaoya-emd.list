@@ -1,16 +1,3 @@
-#甲骨文代理规则
-#我的订阅链接
-DOMAIN,msub-70x.pages.dev
-DOMAIN,msub.zoess.dpdns.org
-DOMAIN,cmsub.zoess.dpdns.org
-DOMAIN,c.zoess.dpdns.org
-#MP115插件更新
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,github.com
-#APTV
-DOMAIN,bptv.freetv.top
-DOMAIN-SUFFIX,iill.top
-DOMAIN-KEYWORD,npoe23nsr
 #小雅爬虫
 DOMAIN,icyou.eu.org
 DOMAIN,emby.8.net.co
