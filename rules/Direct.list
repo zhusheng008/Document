@@ -9,4 +9,4 @@ DOMAIN,nullbr.eu.org
 DOMAIN-SUFFIX,oplist.org
 DOMAIN-SUFFIX,zoecc.top
 DOMAIN,bp.sub.cmliussss.net
-PROCESS-NAME,subs-check,DIRECT
+PROCESS-NAME,subs-check
