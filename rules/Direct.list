@@ -10,4 +10,5 @@ DOMAIN-SUFFIX,oplist.org
 DOMAIN-SUFFIX,zoecc.top
 DOMAIN,bp.sub.cmliussss.net
 #subs-check固定ip直连
+SRC-IP-CIDR,172.20.0.5/32
 IP-CIDR,172.20.0.5/32
