@@ -9,5 +9,5 @@ DOMAIN,nullbr.eu.org
 DOMAIN-SUFFIX,oplist.org
 DOMAIN-SUFFIX,zoecc.top
 DOMAIN,bp.sub.cmliussss.net
-PROCESS-NAME,subs-check
-DOMAIN,gh-proxy.com
+#subs-check固定ip直连
+IP-CIDR,172.20.0.5/32
