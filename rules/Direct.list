@@ -1,7 +1,4 @@
 #直连规则
-#subs-check固定容器IP直连
-SRC-IP-CIDR,172.20.0.5/32
-IP-CIDR,172.20.0.5/32
 #肥羊等直播源
 DOMAIN-SUFFIX,ottiptv.cc
 DOMAIN,myip.ipip.net
