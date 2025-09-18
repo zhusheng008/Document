@@ -1,7 +1,7 @@
 #直连规则
+#PROCESS-NAME,subs-check
 DOMAIN-SUFFIX,zoecc.top
-PROCESS-NAME,subs-check
-#肥羊等直播源
+#直播
 DOMAIN-SUFFIX,ottiptv.cc
 DOMAIN,myip.ipip.net
 DOMAIN,r.inews.qq.com
