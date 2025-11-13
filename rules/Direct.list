@@ -1,6 +1,7 @@
 #直连规则
 #PROCESS-NAME,subs-check
 DOMAIN-SUFFIX,zoecc.top
+DOMAIN-SUFFIX,dynv6.net
 #直播
 DOMAIN-SUFFIX,ottiptv.cc
 DOMAIN,myip.ipip.net
