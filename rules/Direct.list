@@ -2,6 +2,8 @@
 #PROCESS-NAME,subs-check
 DOMAIN-SUFFIX,zoecc.top
 DOMAIN-SUFFIX,dynv6.net
+DOMAIN-SUFFIX,immortalwrt.org
+DOMAIN-SUFFIX,openwrt.ai
 #直播
 DOMAIN-SUFFIX,ottiptv.cc
 DOMAIN,myip.ipip.net
