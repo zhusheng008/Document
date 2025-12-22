@@ -1,6 +1,6 @@
 #直连规则
 #PROCESS-NAME,subs-check
-IP-CIDR6,2a02:180:6:1::15a/128,no-resolve
+IP-CIDR6,2a02:180:6:1::15a/128
 IP-CIDR,152.69.220.38/32,no-resolve
 DOMAIN-SUFFIX,zoecc.top
 DOMAIN-SUFFIX,dynv6.net
