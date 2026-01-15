@@ -1,4 +1,4 @@
 #代理规则
 DOMAIN-SUFFIX,eu.org
 #影巢
-DOMAIN,hdhive.com
+DOMAIN-SUFFIX,hdhive.com
