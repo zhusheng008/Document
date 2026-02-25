@@ -5,9 +5,6 @@ DOMAIN-SUFFIX,dpdns.org
 #MoviePilot
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,tmdb.org
-#MP115插件更新
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,github.com
 #APTV
 DOMAIN,bptv.freetv.top
 DOMAIN-SUFFIX,iill.top
