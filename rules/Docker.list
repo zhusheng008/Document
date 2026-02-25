@@ -1,26 +1,19 @@
-#Docker镜像仓库
-DOMAIN,docker.io
-DOMAIN,hub.rat.dev
-DOMAIN,dockerhub.ggbox.us.kg
-DOMAIN,docker.fxxk.dedyn.io
-DOMAIN,docker.jsdelivr.fyi
-DOMAIN,dockerhub.anzu.vip
-DOMAIN,freeno.xyz
-DOMAIN,docker.anyhub.us.kg
-DOMAIN,dockerhub.icu
-DOMAIN,dk.nastool.de
-DOMAIN,func.ink
-DOMAIN,proxy.1panel.live
-DOMAIN,docker-0.unsee.tech
-DOMAIN,docker.zhai.cm
-DOMAIN,a.ussh.net
-DOMAIN,docker.1ms.run
-DOMAIN,lispy.org
-DOMAIN,docker.kejilion.pro
-DOMAIN,d1q6f0aelx0por.cloudfront.net
-DOMAIN,d2wy8f7a9ursnm.cloudfront.net
-DOMAIN,d36jcksde1wxzq.cloudfront.net
-DOMAIN-SUFFIX,compose-spec.io
+# === Docker 官方核心与规范 ===
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,dockerhub.com
+DOMAIN-SUFFIX,compose-spec.io
+  
+# === Docker 镜像层底层 CDN (关键，否则下载依然慢) ===
+DOMAIN,d1q6f0aelx0por.cloudfront.net
+DOMAIN,d2wy8f7a9ursnm.cloudfront.net
+DOMAIN,d36jcksde1wxzq.cloudfront.net
+  
+# === 精选高可用加速/代理站 (去重后保留) ===
+DOMAIN,docker.jsdelivr.fyi
+DOMAIN,proxy.1panel.live
+DOMAIN,dockerhub.icu
+DOMAIN,dk.nastool.de
+DOMAIN,docker.zhai.cm
+DOMAIN,docker.1ms.run
+DOMAIN,docker.kejilion.pro
