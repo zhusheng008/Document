@@ -1,8 +1,9 @@
 #直连规则
 #PROCESS-NAME,subs-check
-IP-CIDR6,2a02:180:6:1::15a/128,no-resolve
-IP-CIDR,152.69.220.38/32,no-resolve
+#IP-CIDR6,2a02:180:6:1::15a/128,no-resolve
+#IP-CIDR,152.69.220.38/32,no-resolve
 DOMAIN-SUFFIX,zoecc.top
+DOMAIN-SUFFIX,indevs.in
 DOMAIN-SUFFIX,dynv6.net
 DOMAIN-SUFFIX,immortalwrt.org
 DOMAIN-SUFFIX,openwrt.ai
