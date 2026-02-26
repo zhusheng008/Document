@@ -1,6 +1,6 @@
 #MoviePilot
-DOMAIN-SUFFIX,themoviedb.org
-DOMAIN-SUFFIX,tmdb.org
+#DOMAIN-SUFFIX,themoviedb.org
+#DOMAIN-SUFFIX,tmdb.org
 #APTV
 DOMAIN,bptv.freetv.top
 DOMAIN-SUFFIX,iill.top
