@@ -1,6 +1,7 @@
 #代理规则
 DOMAIN-SUFFIX,eu.org
 #影巢
+DOMAIN-SUFFIX,hdhive.com
 DOMAIN-SUFFIX,re0.me
 #SUB订阅
 DOMAIN-SUFFIX,cmliussss.net
